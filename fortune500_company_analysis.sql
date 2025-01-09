@@ -256,5 +256,5 @@ KEY FINDINGS FROM THE DATASET:
 - Older industries (Energy, Manufacturing) show higher employee tenure but lower satisfaction
 - Companies with higher diversity scores tend to have more comprehensive benefits packages
 
-Note: This dataset represents a snapshot of Fortune 500 companies not all.
+Note: This dataset represents a snapshot of Fortune 500 companies.
 */
